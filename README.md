@@ -1,6 +1,6 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=yukiki02)
 
-Welcome! This is Hui(Norbert) Zheng, Ph.D. student at PKU.
+Welcome! This is yukiki02, Undergraduate student at HUST.
 
 <!--
 **Fassial/fassial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
