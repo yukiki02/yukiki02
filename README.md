@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Quick Bio
+<!-- Quick Bio
 - I am currently a Neuroscience Ph.D. student working with Dr. Yunzhe Liu at Chinese Institute for Brain Research.
-- I obtained B.S. in Computer Science at Wuhan University, in Hongyi Honor College.
+- I obtained B.S. in Computer Science at Wuhan University, in Hongyi Honor College. -->
 
 <!-- GitHub Statistics -->
 <div >
@@ -28,7 +28,7 @@ Quick Bio
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yukiki02&margin-w=10&row=1&column=7" alt="NorbertZheng-trophy" /></a> </p>
 </div>
 
-### 📊 Weekly development time
+<!-- ### 📊 Weekly development time
 <!--START_SECTION:waka-->
 
 ```text
@@ -36,7 +36,7 @@ From: 17 February 2023 - To: 24 February 2023
 
 TeX      3 hrs 57 mins   ███████████████████████░░   92.31 %
 Python   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % -->
 ```
 
 <!--END_SECTION:waka-->
